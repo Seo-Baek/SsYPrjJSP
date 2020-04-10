@@ -27,7 +27,7 @@ public class ModifyFilePath implements Action{
 		// 업로드할 폴더 경로
 		// 첨부 파일이 저장될 위치
 		String saveFolder = 
-				"D:\\Ssangyong\\workspace(JSP)\\.metadata\\.plugins\\org.eclipse.wst.server.core\\tmp0\\wtpwebapps\\projectCAFEIN\\uploadFile";
+				"C:\\NCS\\workspace(Project)\\.metadata\\.plugins\\org.eclipse.wst.server.core\\tmp0\\wtpwebapps\\projectCAFEIN\\uploadFile";
 		
 		// 첨부 파일의 최대 크기
 		int fileSize = 10 * 1024 * 1024;	// 10MB
